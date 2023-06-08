@@ -1,0 +1,195 @@
+1.PLATFORM.PHYSICIAN
+
+Preconditions:
+
+1.Use Fiddler, 
+Collection: https://github.com/ViachaslauMatsveyeu/MyGoals/blob/main/Error%20pop-up.saz
+Turn on the Rules
+2.Bowser: Chrome
+3.Env: qa-3 (https://qa-3.aibolit.com/)
+4.Log in as a Platform.Physician (Slava.Platform@aibolit-tech.com // Prigorod10)
+
+Steps:
+
+Verify Error pop-ups on the following pages
+-MyCases
+-Video
+-Files
+-3D models
+-Report
+-MyAnalytics
+-Shared with me/By me
+-Library
+-Recording
+-Teleconference
+
+Expected result:
+
+Error pop-up is displayed
+
+2.PLATFORM.ANNOTATOR
+
+Preconditions:
+
+1.Use Fiddler, 
+Collection: https://github.com/ViachaslauMatsveyeu/MyGoals/blob/main/Error%20pop-up.saz
+Turn on the Rules
+2.Bowser: Chrome
+3.Env: qa-3 (https://qa-3.aibolit.com/)
+4.Log in as a Platform.Annotator (Slava.Annotator@aibolit-tech.com // Prigorod10)
+
+Steps:
+
+Verify Error pop-ups on the following pages
+-TasksPage
+-Specific task 
+
+Expected result:
+
+Error pop-up is displayed
+
+3.PLATFORM.ADMIN
+
+Preconditions:
+
+1.Use Fiddler, 
+Collection: https://github.com/ViachaslauMatsveyeu/MyGoals/blob/main/Error%20pop-up.saz
+Turn on the Rules
+2.Bowser: Chrome
+3.Env: qa-3 (https://qa-3.aibolit.com/)
+4.Log in as a Platform.Admin (Slava.Platform.Admin@aibolit-tech.com // Prigorod10)
+
+Steps:
+
+Verify Error pop-ups on the following pages
+-Department/Facility page
+-KeySteps  page
+-BookMarks page
+
+Expected result:
+
+Error pop-up is displayed
+
+4. 3DPLUS.PHYSICIAN
+
+Preconditions:
+
+1.Use Fiddler, 
+Collection: https://github.com/ViachaslauMatsveyeu/MyGoals/blob/main/Error%20pop-up.saz
+Turn on the Rules
+2.Bowser: Chrome
+3.Env: qa-3 (https://qa-3.aibolit.com/)
+4.Log in as a 3DPlus.Physician (Slava.Slava.3DPlusPhysician@aibolit-tech.com // Prigorod10)
+
+Steps:
+
+Verify Error pop-ups on the following pages
+-TasksPage
+-Request New 3D model page 
+
+Expected result:
+
+Error pop-up is displayed
+
+5.3DPLUS.RADIOLOGIST
+
+Preconditions:
+
+1.Use Fiddler, 
+Collection: https://github.com/ViachaslauMatsveyeu/MyGoals/blob/main/Error%20pop-up.saz
+Turn on the Rules
+2.Bowser: Chrome
+3.Env: qa-3 (https://qa-3.aibolit.com/)
+4.Log in as a 3Dplus.Radiologist (Slava.Annotator@aibolit-tech.com // Prigorod10)
+
+Steps:
+
+Verify Error pop-ups on the following pages
+-TasksPage
+-Specific task 
+
+Expected result:
+
+Error pop-up is displayed
+
+6.3DPLUS.IMAGINEASSISTANT
+
+Preconditions:
+
+1.Use Fiddler, 
+Collection: https://github.com/ViachaslauMatsveyeu/MyGoals/blob/main/Error%20pop-up.saz
+Turn on the Rules
+2.Bowser: Chrome
+3.Env: qa-3 (https://qa-3.aibolit.com/)
+4.Log in as a Slava.3DPlus.ImagineAssistant (Slava.3DPlus.ImagineAssistant@aibolit-tech.com // Prigorod10)
+
+Steps:
+
+Verify Error pop-ups on the following pages
+-TasksPage
+-Specific task 
+
+Expected result:
+
+Error pop-up is displayed
+
+7.3DPLUS.ADMIN
+
+Preconditions:
+
+1.Use Fiddler, 
+Collection: https://github.com/ViachaslauMatsveyeu/MyGoals/blob/main/Error%20pop-up.saz
+Turn on the Rules
+2.Bowser: Chrome
+3.Env: qa-3 (https://qa-3.aibolit.com/)
+4.Log in as a 3DPlus.Admin (Slava.3DPlus.Admin@aibolit-tech.com // Prigorod10)
+
+Steps:
+
+Verify Error pop-ups on the following pages
+-TasksPage
+-Specific task 
+
+Expected result:
+
+Error pop-up is displayed
+
+8.3DTRAUMA.PHYSICIAN
+
+Preconditions:
+
+1.Use Fiddler, 
+Collection: https://github.com/ViachaslauMatsveyeu/MyGoals/blob/main/Error%20pop-up.saz
+Turn on the Rules
+2.Bowser: Chrome
+3.Env: qa-3 (https://qa-3.aibolit.com/)
+4.Log in as a 3DTrauma.Physician (slava.trauma@aibolit-tech.com // Prigorod10)
+
+Steps:
+
+Verify Error pop-ups on the following pages
+-TasksPage
+-Specific task 
+
+Expected result:
+
+Error pop-up is displayed
+
+9. PLATFORM.PHYSICIAN Teams Web Appliation
+
+Preconditions:
+
+1.Use Fiddler, 
+Collection: https://github.com/ViachaslauMatsveyeu/MyGoals/blob/main/Error%20pop-up.saz
+Turn on the Rules
+2.Bowser: Chrome
+3.Env: qa-3 (https://qa-3.aibolit.com/)
+4.Log in as a Platform.Physician (Slava.Platform@aibolit-tech.com // Prigorod10)
+
+Steps:
+
+Start Teleconference using Teams Web Appliation
+
+Expected result:
+
+Error pop-up is NOT displayed
